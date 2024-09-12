@@ -1,0 +1,24 @@
+<svg width="20" height="23" viewBox="0 0 20 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="20" height="23" fill="#F5F5F5"/>
+<g id="Call-to-actions">
+<rect width="1728" height="1117" transform="translate(-257 -348)" fill="white"/>
+<g id="Add to cart" filter="url(#filter0_d_0_1)">
+<rect width="257" height="76" transform="translate(-207 -28)" fill="#00B47E"/>
+<g id="arrow-right">
+<path id="Vector" d="M19.5804 12.5803C20.1384 12.0223 20.1384 11.1161 19.5804 10.558L12.4375 3.41517C11.8795 2.85713 10.9732 2.85713 10.4152 3.41517C9.85714 3.97321 9.85714 4.87946 10.4152 5.43749L15.125 10.1428H1.42857C0.638393 10.1428 0 10.7812 0 11.5714C0 12.3616 0.638393 13 1.42857 13H15.1205L10.4196 17.7053C9.86161 18.2634 9.86161 19.1696 10.4196 19.7277C10.9777 20.2857 11.8839 20.2857 12.442 19.7277L19.5848 12.5848L19.5804 12.5803Z" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-209" y="-30" width="265" height="84" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="2" dy="2"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+</defs>
+</svg>
